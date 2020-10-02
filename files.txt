@@ -1,0 +1,9 @@
+total 19
+drwxr-xr-x 1 SOUTHPACIFIC+thanhn 4096   0 Oct  2 18:18 .
+drwxr-xr-x 1 SOUTHPACIFIC+thanhn 4096   0 Oct  2 18:14 ..
+drwxr-xr-x 1 SOUTHPACIFIC+thanhn 4096   0 Oct  2 18:17 .git
+-rw-r--r-- 1 SOUTHPACIFIC+thanhn 4096 481 Oct  2 18:14 azure-pipelines.yml
+-rw-r--r-- 1 SOUTHPACIFIC+thanhn 4096 481 Oct  2 18:14 azure-pipelines-1.yml
+-rw-r--r-- 1 SOUTHPACIFIC+thanhn 4096   0 Oct  2 18:18 files.txt
+-rw-r--r-- 1 SOUTHPACIFIC+thanhn 4096 481 Oct  2 18:17 my-azure-pipelines.yml
+-rw-r--r-- 1 SOUTHPACIFIC+thanhn 4096  64 Oct  2 18:14 README.md
